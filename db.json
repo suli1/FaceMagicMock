@@ -25,18 +25,23 @@
   "materialMine":{
     "data": [
       {
-        "coverUrl": "https://xx/ss/aa/18.jpg",
+        "fileId": 10009,
         "created": 1583745201,
+        "coverUrl": "https://static-1251297012.cos.ap-shanghai.myqcloud.com/temp/1.jpg",
+        "fileUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/test-resource/xiao.gif",
+        "gifUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/tiktok1.mp4",
+        "preProcessed": true,
         "faces": [
           {
-            "faceId": 100006,
-            "fileUrl": "https://xx/ss/aa/11.jpg"
+            "faceId": 110001,
+            "fileUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/test-resource/avatar1.jpg"
+          },
+          {
+            "faceId": 110002,
+            "fileUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/test-resource/avatar2.jpg"
           }
-        ],
-        "fileId": 10009,
-        "fileUrl": "https://xx/ss/aa/11.jpg",
-        "gifUrl": "https://xx/ss/aa/13.gif",
-        "preProcessed": true
+
+        ]
       }
     ],
     "errorCode": 0,
@@ -44,4 +49,3 @@
     "success": true
   }
 }
-
