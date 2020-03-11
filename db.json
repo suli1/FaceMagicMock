@@ -1,0 +1,28 @@
+{
+  "magicVideoList": {
+    "data": [
+      {
+        "coverUrl": "https://xx/ss/aa/12.jpg",
+        "created": 1583745201,
+        "faces": [
+          {
+            "faceId": 100006,
+            "fileUrl": "https://xx/ss/aa/11.jpg"
+          }
+        ],
+        "fileId": 100010,
+        "fileUrl": "https://xx/ss/aa/11.jpg",
+        "gifUrl": "https://xx/ss/aa/13.gif",
+        "preProcessed": true,
+        "subject": "主题",
+        "tags": "演美女"
+      }
+    ],
+    "errorCode": 0,
+    "errorMsg": "ok",
+    "success": true
+  },
+  "profile": {
+    "name": "typicode"
+  }
+}
