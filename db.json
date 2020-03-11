@@ -28,8 +28,8 @@
         "fileId": 10009,
         "created": 1583745201,
         "coverUrl": "https://static-1251297012.cos.ap-shanghai.myqcloud.com/temp/1.jpg",
-        "fileUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/test-resource/xiao.gif",
-        "gifUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/tiktok1.mp4",
+        "gifUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/test-resource/xiao.gif",
+        "fileUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/tiktok1.mp4",
         "preProcessed": true,
         "faces": [
           {
