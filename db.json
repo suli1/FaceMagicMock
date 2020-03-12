@@ -2,22 +2,15 @@
   "mineWorks": {
     "data": [
       {
-        "materialId": 10009,
-        "created": 1583745201,
+        "taskId": 10009,
+        "subject": "《大话西游》我的意中人是个盖世英雄",
         "coverUrl": "https://static-1251297012.cos.ap-shanghai.myqcloud.com/temp/1.jpg",
-        "gifUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/test-resource/xiao.gif",
-        "fileUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/tiktok1.mp4",
-        "preProcessed": true,
-        "faces": [
-          {
-            "faceId": 110001,
-            "fileUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/test-resource/avatar1.jpg"
-          },
-          {
-            "faceId": 110002,
-            "fileUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/test-resource/avatar2.jpg"
-          }
-        ]
+        "url": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/tiktok1.mp4",
+        "completed": true,
+        "progress": {
+          "index": 0,
+          "waiting": 0
+        }
       }
     ],
     "errorCode": 0,
