@@ -27,100 +27,68 @@
   "magicVideoList": {
     "data": [
       {
-        "coverUrl": "https://static-1251297012.cos.ap-shanghai.myqcloud.com/temp/1.jpg",
+        "materialId": 100001,
         "created": "2020-01-01T08:27:22.865Z",
-        "faces": [
-          {
-            "faceId": 100006,
-            "fileUrl": "https://xx/ss/aa/11.jpg"
-          }
-        ],
-        "materialId": 100010,
+        "coverUrl": "https://static-1251297012.cos.ap-shanghai.myqcloud.com/temp/1.jpg",
+        "gifUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/test-resource/home01.gif",
         "fileUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/tiktok1.mp4",
-        "gifUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/test-resource/xiao.gif",
-        "preProcessed": "2020-01-01T08:27:22.865Z",
-        "subject": "《大话西游》我的意中人是个盖世英雄",
-        "tags": "演爱豆"
-      },
-      {
-        "coverUrl": "https://static-1251297012.cos.ap-shanghai.myqcloud.com/temp/1.jpg",
-        "created": "2020-01-01T08:27:22.865Z",
         "faces": [
           {
-            "faceId": 100006,
-            "fileUrl": "https://xx/ss/aa/11.jpg"
+            "faceId": 110001,
+            "fileUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/test-resource/avatar01.gif"
           }
         ],
-        "materialId": 100010,
-        "fileUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/tokyo_hot.mp4",
-        "gifUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/test-resource/xiao.gif",
-        "preProcessed": true,
-        "subject": "短标题",
-        "tags": "演美女"
-      },
-      {
-        "coverUrl": "https://static-1251297012.cos.ap-shanghai.myqcloud.com/temp/1.jpg",
-        "created": "2020-01-01T08:27:22.865Z",
-        "faces": [
-          {
-            "faceId": 100006,
-            "fileUrl": "https://xx/ss/aa/11.jpg"
-          }
-        ],
-        "materialId": 100010,
-        "fileUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/tiktok1.mp4",
-        "gifUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/test-resource/xiao.gif",
         "preProcessed": true,
         "subject": "《大话西游》我的意中人是个盖世英雄",
         "tags": "演爱豆"
       },
       {
-        "coverUrl": "https://static-1251297012.cos.ap-shanghai.myqcloud.com/temp/1.jpg",
         "created": "2020-01-01T08:27:22.865Z",
+        "materialId": 100002,
+        "gifUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/test-resource/home02.gif",
+        "coverUrl": "https://static-1251297012.cos.ap-shanghai.myqcloud.com/temp/1.jpg",
+        "fileUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/tokyo_hot.mp4",
         "faces": [
           {
-            "faceId": 100006,
-            "fileUrl": "https://xx/ss/aa/11.jpg"
+            "faceId": 110002,
+            "fileUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/test-resource/avatar02.gif"
           }
         ],
-        "materialId": 100010,
-        "fileUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/tokyo_hot.mp4",
-        "gifUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/test-resource/xiao.gif",
         "preProcessed": true,
         "subject": "短标题",
         "tags": "演美女"
       },
       {
-        "coverUrl": "https://static-1251297012.cos.ap-shanghai.myqcloud.com/temp/1.jpg",
+        "materialId": 100003,
         "created": "2020-01-01T08:27:22.865Z",
-        "faces": [
-          {
-            "faceId": 100006,
-            "fileUrl": "https://xx/ss/aa/11.jpg"
-          }
-        ],
-        "materialId": 100010,
+        "coverUrl": "https://static-1251297012.cos.ap-shanghai.myqcloud.com/temp/1.jpg",
+        "gifUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/test-resource/home03.gif",
         "fileUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/tiktok1.mp4",
-        "gifUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/test-resource/xiao.gif",
-        "preProcessed": true,
-        "subject": "《大话西游》我的意中人是个盖世英雄",
-        "tags": "演爱豆"
-      },
-      {
-        "coverUrl": "https://static-1251297012.cos.ap-shanghai.myqcloud.com/temp/1.jpg",
-        "created": "2020-01-01T08:27:22.865Z",
         "faces": [
           {
-            "faceId": 100006,
-            "fileUrl": "https://xx/ss/aa/11.jpg"
+            "faceId": 110003,
+            "fileUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/test-resource/avatar03.gif"
           }
         ],
-        "materialId": 100010,
-        "fileUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/tokyo_hot.mp4",
-        "gifUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/test-resource/xiao.gif",
         "preProcessed": true,
-        "subject": "短标题",
-        "tags": "演美女"
+        "subject": "千秋无绝色，悦目是佳人",
+        "tags": "演女神"
+      },
+      {
+        "materialId": 100004,
+        "created": "2020-01-01T08:27:22.865Z",
+        "coverUrl": "https://static-1251297012.cos.ap-shanghai.myqcloud.com/temp/1.jpg",
+        "gifUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/test-resource/home04.gif",
+        "fileUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/tokyo_hot.mp4",
+        "faces": [
+          {
+            "faceId": 110004,
+            "fileUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/test-resource/avatar04.gif"
+          }
+        ],
+        "preProcessed": true,
+        "subject": "甜度暴表！🤣大魔王爱上勇士~~~",
+        "tags": "演情侣"
       },
       {
         "coverUrl": "https://static-1251297012.cos.ap-shanghai.myqcloud.com/temp/1.jpg",
@@ -151,11 +119,41 @@
         "fileUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/tokyo_hot.mp4",
         "gifUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/test-resource/xiao.gif",
         "preProcessed": true,
+        "subject": "长标题测试，我是标题,长标题测试，我是标题,长标题测试，我是标题,我是标题,长标题测试，我是标题",
+        "tags": "演美女"
+      },
+      {
+        "materialId": 100005,
+        "created": "2020-01-01T08:27:22.865Z",
+        "gifUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/test-resource/not_exist.gif",
+        "fileUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/not_exist.mp4",
+        "faces": [
+          {
+            "faceId": 100006,
+            "fileUrl": "https://xx/ss/aa/11.jpg"
+          }
+        ],
+        "preProcessed": true,
+        "subject": "不存在图片测试",
+        "tags": "演爱豆"
+      },
+      {
+        "coverUrl": "https://static-1251297012.cos.ap-shanghai.myqcloud.com/temp/1.jpg",
+        "created": "2020-01-01T08:27:22.865Z",
+        "faces": [
+          {
+            "faceId": 100006,
+            "fileUrl": "https://xx/ss/aa/11.jpg"
+          }
+        ],
+        "materialId": 100010,
+        "fileUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/tokyo_hot.mp4",
+        "gifUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/test-resource/xiao.gif",
+        "preProcessed": true,
         "subject": "短标题",
         "tags": "演美女"
       },
       {
-        "coverUrl": "https://static-1251297012.cos.ap-shanghai.myqcloud.com/temp/1.jpg",
         "created": "2020-01-01T08:27:22.865Z",
         "faces": [
           {
