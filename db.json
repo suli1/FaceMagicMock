@@ -4,10 +4,11 @@
       {
         "materialId": 10009,
         "created": 1583745201,
+        "subject": "《大话西游》我的意中人是个盖世英雄",
         "coverUrl": "https://static-1251297012.cos.ap-shanghai.myqcloud.com/temp/1.jpg",
         "gifUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/test-resource/xiao.gif",
         "fileUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/tiktok1.mp4",
-        "preProcessed": true,
+        "completed": true,
         "faces": [
           {
             "faceId": 110001,
