@@ -213,5 +213,33 @@
     "errorCode": 0,
     "errorMsg": "ok",
     "success": true
+  },
+  "magicGo":{
+     "data": {
+       "progress": {
+          "index": 0,
+          "waiting": 5
+        },
+        "taskId": 100
+     },
+     "errorCode": 0,
+     "errorMsg": "ok",
+     "success": true
+  },
+  "magicTask":{
+     "data": {
+        "completed": true,
+        "coverUrl": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/test-resource/home01.gif",
+        "progress": {
+          "index": 0,
+          "waiting": 0
+        },
+        "subject": "主题",
+        "taskId": 101,
+        "url": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/tiktok1.mp4"
+      },
+      "errorCode": 0,
+      "errorMsg": "ok",
+      "success": true
   }
 }
