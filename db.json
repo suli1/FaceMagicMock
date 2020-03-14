@@ -6,10 +6,10 @@
         "subject": "《大话西游》我的意中人是个盖世英雄",
         "coverUrl": "https://static-1251297012.cos.ap-shanghai.myqcloud.com/temp/1.jpg",
         "url": "https://activities-test-1251297012.cos.ap-hongkong.myqcloud.com/tiktok1.mp4",
-        "completed": true,
+        "completed": false,
         "progress": {
           "index": 0,
-          "waiting": 0
+          "waiting": 10
         }
       }
     ],
